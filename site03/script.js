@@ -1,1 +1,0 @@
-window.alert("olá Seja BemVindo ao meu site");
